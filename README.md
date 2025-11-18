@@ -2,7 +2,7 @@
 Simple script for massive reverse NS Check on a IP list
 
 **Autore:** Vincenzo Oriti  
-**Versione:** 1.1  
+**Versione:** 1.2
 **Licenza:** GPL-3.0  
 
 ---
