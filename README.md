@@ -1,6 +1,7 @@
 🇮🇹 **MassiveNSLookup - Versione Italiana**
-Semplice script per DNS inverso massivo su una lista di IP
 ==========================================
+
+Semplice script per DNS inverso massivo su una lista di IP
 
 **Autore:** Vincenzo Oriti  
 **Versione:** 1.3
@@ -101,8 +102,9 @@ Consulta il testo completo su: https://www.gnu.org/licenses/gpl-3.0.html
 
 
 🇬🇧 **MassiveNSLookup - English Version**
-Simple script for massive reverse NS Check on a IP list
 ==========================================
+
+Simple script for massive reverse NS Check on a IP list
 
 **Author:** Vincenzo Oriti  
 **Version:** 1.3
