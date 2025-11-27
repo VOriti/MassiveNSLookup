@@ -4,7 +4,7 @@ setlocal EnableDelayedExpansion
 :: =============================================================================
 :: MassiveNSLookup - Refactored Version
 :: Author: Vincenzo Oriti
-:: Version: 2.1
+:: Version: 2.0
 ::
 :: This script performs a reverse DNS lookup on a list of IP addresses
 :: and saves the results in TXT or CSV format.

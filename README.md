@@ -4,7 +4,7 @@
 Semplice script per DNS inverso massivo su una lista di IP
 
 **Autore:** Vincenzo Oriti
-**Versione:** 2.1
+**Versione:** 2.0
 **Licenza:** GPL-3.0
 
 ---
@@ -104,7 +104,7 @@ Consulta il testo completo su: https://www.gnu.org/licenses/gpl-3.0.html
 Simple script for massive reverse NS Check on a IP list
 
 **Author:** Vincenzo Oriti
-**Version:** 2.1
+**Version:** 2.0
 **Licence:** GPL-3.0
 
 ---
